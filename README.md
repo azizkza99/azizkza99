@@ -1,25 +1,46 @@
-### Hi there 👋, I'm Abdelaziz Abuthuraya
-**Industrial Engineer & Frontend Developer** 
+# Abdelaziz Abuthuraya
 
-- 🚀 Passionate about building modern web applications, interactive user interfaces, and workflow automation.
-- 💻 Experienced with **React, Tailwind CSS, JavaScript, GSAP, and Laravel**.
-- 🛠️ Always exploring new ways to bridge the gap between engineering efficiency and software solutions.
+**Industrial Engineer · Frontend & Systems Developer**
 
----
+مهندس صناعي أبني تجارب وأنظمة رقمية واضحة، سريعة، وصادقة — مع اهتمام خاص بالمنتجات العربية واتجاه RTL.
 
-### 🌟 Featured Projects
+I combine an industrial-engineering mindset with hands-on web development: define the real problem, design the flow, build the interface, validate the system, and remove unsupported claims before launch.
 
-Here are some of the key projects I've built and deployed:
+## Engineering profile
 
-* **[Aether OS](https://github.com/azizkza99/aether-os)** - A modern, web-based operating system simulation and interactive portfolio dashboard built with React, Tailwind CSS, and GSAP. ([Live Demo](https://aether-os-seven-kappa.vercel.app))
-* **[Nexus AI Template](https://github.com/azizkza99/nexus-ai-template)** - A sleek AI-focused frontend web template with responsive layouts.
-* **[Afoq Landing Page](https://github.com/azizkza99/afoq-landing-page)** - A professional landing page layout optimized for digital presentation.
+- B.Sc. in Industrial Engineering from Üsküdar University (English-taught program)
+- Practical background across manufacturing, quality, production operations, and export sales
+- Focused on process clarity, measurable improvement, reliability, and responsible product boundaries
+- Based in Saudi Arabia and open to industrial engineering, operations, and digital systems opportunities
 
----
+## What I build
 
-### 📊 Tech Stack & Tools
-* **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Vite
-* **Backend & Workflow:** Laravel, PHP, n8n, Python, SQL
-* **Tools & Design:** Git, GitHub, VS Code, Figma, SolidWorks, Blender
+- Arabic-first and bilingual RTL/LTR product experiences
+- Responsive React interfaces with accessible interaction patterns
+- Server-validated forms and secure data paths
+- Product concepts that clearly separate working features from future scope
+- Performance-focused deployments with reproducible quality checks
 
-📫 **How to reach me:** Feel free to explore my repositories or check out my live deployments above!
+## Selected work
+
+| Project | What it demonstrates | Technology | Links |
+| --- | --- | --- | --- |
+| **ECLIPSE** | Arabic-first specialty-coffee brand foundation, product discovery quiz, and verified booking-interest flow | TanStack Start, React, TypeScript, Tailwind CSS, Resend | [Live](https://eclipse-luxury-experience.vercel.app/) · Private source |
+| **Kayan** | Arabic-first real-estate product concept with a hardened Supabase inquiry path | React, TypeScript, Tailwind CSS, Supabase/Postgres | [Repository](https://github.com/azizkza99/kayan-app) · [Live](https://kayan-app-henna.vercel.app/) |
+| **Aether OS** | Accessible browser-only operating-system simulation with local state and explicit trust boundaries | React, TypeScript, Tailwind CSS, Vite | [Repository](https://github.com/azizkza99/aether-os) · [Live](https://aether-os-seven-kappa.vercel.app/) |
+| **AFOQ** | Arabic-first bilingual digital-studio interface concept with optimized motion and a local brief planner | React, Tailwind CSS, Vite | [Repository](https://github.com/azizkza99/afoq-landing-page) · [Live](https://afoq-landing-page-alpha.vercel.app/) |
+| **Nexus-AI** | Bilingual SaaS interface concept with an accessible sample dashboard and browser-only scope planner | React, Tailwind CSS, Vite | [Repository](https://github.com/azizkza99/nexus-ai-template) |
+
+## Verified toolkit
+
+**Frontend:** React · TypeScript · JavaScript · TanStack Start · Tailwind CSS · Vite
+
+**Data and delivery:** Supabase · PostgreSQL · Vercel · GitHub · server-side validation · Row Level Security
+
+**Industrial engineering:** process improvement · production planning · quality control · supply chain · operations analysis
+
+**Working languages:** Arabic · English · Turkish
+
+## Current direction
+
+I am developing a portfolio at the intersection of industrial engineering and digital systems—where process thinking improves the product, and software makes the process visible, testable, and easier to operate.
