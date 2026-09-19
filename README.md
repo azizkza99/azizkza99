@@ -2,28 +2,29 @@
 
 # Abdelaziz Abuthuraya
 
-### Industrial Engineer · Full-Stack Systems Builder · Automation & Process Improvement
+### Industrial Engineer · Production Planning · Process Improvement · Digital Systems
 
-I build Arabic-first digital products and engineering systems that make complex processes clearer, measurable, and easier to operate.
+I connect industrial-engineering methods with practical digital systems—making production, workflows, specifications, and customer journeys clearer and easier to operate.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-ruby-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelazizabuthuraya/)
-[![Email](https://img.shields.io/badge/Email-aziz.kza99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz.kza99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-azizkza99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkza99@gmail.com)
 
 </div>
 
 ## About Me
 
-Industrial Engineer and full-stack systems builder based in Saudi Arabia. I combine production planning, process improvement, quality, and supply-chain thinking with modern web development to deliver accessible interfaces, secure workflows, interactive 3D product concepts, and practical automation.
+Industrial Engineering graduate based in Jeddah, Saudi Arabia, with practical experience across production planning, manufacturing operations, quality inspection, process improvement, supply-chain analysis, and EPC coordination in Türkiye and Saudi Arabia.
 
-My work is designed for real operating environments: bilingual Arabic/English UX, clear trust boundaries, reproducible quality checks, and technology choices tied to a defined business problem.
+Alongside engineering, I build bilingual Arabic/English web systems using React, TypeScript, Supabase/PostgreSQL, Three.js, and Vercel. My projects translate operational requirements into accessible interfaces, secure workflows, interactive product experiences, and measurable business tools.
 
-- B.Sc. in Industrial Engineering from Üsküdar University
-- Manufacturing and operations experience across Saudi Arabia and Türkiye
-- Working languages: Arabic, English, and Turkish
-- Open to industrial engineering, operations, automation, and digital-systems opportunities
+- B.Sc. in Industrial Engineering — Üsküdar University
+- Production planning, Lean/5S, quality, supply chain, Excel, and mathematical modelling
+- Graduate coursework in supply chain, marketing management, and mathematical modelling
+- Arabic (native), English (C1), and Turkish (B1)
+- Open to junior industrial engineering, operations, quality, supply-chain, and industrial-digitalization roles in Saudi Arabia
 
-## Technology Stack
+## Engineering & Technology Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -40,18 +41,26 @@ My work is designed for real operating environments: bilingual Arabic/English UX
 
 **Engineering:** production planning · process optimization · Lean manufacturing · quality control · supply-chain analytics
 
-**Product engineering:** RTL/LTR systems · accessibility · server-side validation · Row Level Security · responsive UI · workflow automation
+**Tools:** Microsoft Excel · SolidWorks · AutoCAD · mathematical modelling · data analysis
+
+**Digital systems:** RTL/LTR interfaces · accessibility · server-side validation · Row Level Security · responsive UI · workflow automation
 
 ## Selected Engineering Work
 
 | Project | Engineering Value | Stack |
 | --- | --- | --- |
-| [Kayan](https://github.com/azizkza99/kayan-app) | Arabic-first workflow-automation concept with a hardened inquiry path | React, TypeScript, Supabase, PostgreSQL |
-| [FORM 3D Viewer](https://github.com/azizkza99/bezi-product-viewer) | Interactive door configuration connecting product specifications to visual decisions | React, Three.js, WebGL |
+| [FORM 3D Viewer](https://github.com/azizkza99/bezi-product-viewer) | Interactive door configuration connecting product specifications to visual decisions | React, JavaScript, Three.js, WebGL |
+| [Kayan](https://github.com/azizkza99/kayan-app) | Arabic-first workflow inquiry system with validated submissions and database access controls | React, TypeScript, Supabase, PostgreSQL |
+| [ECLIPSE](https://github.com/azizkza99/eclipse-luxury-experience) | Bilingual specialty-coffee experience with server validation and email integration | TanStack Start, React, TypeScript, Resend |
 | [Aether OS](https://github.com/azizkza99/aether-os) | Accessible OS simulation with a command parser and in-memory file system | React, JavaScript, Canvas |
 | [AFOQ](https://github.com/azizkza99/afoq-landing-page) | Bilingual studio experience with optimized media and RTL/LTR architecture | React, Tailwind CSS, Vite |
-| [Nexus-AI](https://github.com/azizkza99/nexus-ai-template) | Transparent AI-automation SaaS concept with an accessible sample dashboard | React, Tailwind CSS, Vite |
-| [CV & Portfolio](https://github.com/azizkza99/CV) | Bilingual engineering portfolio with reproducible resume generation | React, Python, Vite |
+| [Nexus AI](https://github.com/azizkza99/nexus-ai-template) | Bilingual product-planning workspace and SaaS front-end concept | React, JavaScript, Tailwind CSS, Vite |
+
+## Industrial Engineering Case Studies
+
+- **Integrated Supply Chain & Revenue Analysis:** evaluated 85% machine utilization and 0.5–1.5% waste to identify cost and process-improvement opportunities.
+- **Virtual Machine Placement under QoS Constraints:** developed a Mixed-Integer Programming model that achieved a zero optimality gap in tested demand scenarios.
+- **Workforce Planning & Employee Selection:** designed and analysed a 14-question survey across eight companies covering selection, development, and succession planning.
 
 ## GitHub Analytics
 
