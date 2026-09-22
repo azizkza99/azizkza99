@@ -8,7 +8,7 @@ I connect industrial-engineering methods with practical digital systems—making
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-ruby-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelazizabuthuraya/)
-[![Email](https://img.shields.io/badge/Email-azizkza99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizkza99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aziz.kza99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz.kza99@gmail.com)
 
 </div>
 
