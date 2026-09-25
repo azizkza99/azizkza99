@@ -51,7 +51,7 @@ Alongside engineering, I build bilingual Arabic/English web systems using React,
 | --- | --- | --- |
 | [FORM 3D Viewer](https://github.com/azizkza99/bezi-product-viewer) | Interactive door configuration connecting product specifications to visual decisions | React, JavaScript, Three.js, WebGL |
 | [Kayan](https://github.com/azizkza99/kayan-app) | Arabic-first workflow inquiry system with validated submissions and database access controls | React, TypeScript, Supabase, PostgreSQL |
-| [ECLIPSE](https://github.com/azizkza99/eclipse-luxury-experience) | Bilingual specialty-coffee experience with server validation and email integration | TanStack Start, React, TypeScript, Resend |
+| [ECLIPSE](https://eclipse-luxury-experience.vercel.app/) | Bilingual specialty-coffee experience with server validation and email integration | TanStack Start, React, TypeScript, Resend |
 | [Aether OS](https://github.com/azizkza99/aether-os) | Accessible OS simulation with a command parser and in-memory file system | React, JavaScript, Canvas |
 | [AFOQ](https://github.com/azizkza99/afoq-landing-page) | Bilingual studio experience with optimized media and RTL/LTR architecture | React, Tailwind CSS, Vite |
 | [Nexus AI](https://github.com/azizkza99/nexus-ai-template) | Bilingual product-planning workspace and SaaS front-end concept | React, JavaScript, Tailwind CSS, Vite |
