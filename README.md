@@ -62,6 +62,10 @@ Alongside engineering, I build bilingual Arabic/English web systems using React,
 - **Virtual Machine Placement under QoS Constraints:** developed a Mixed-Integer Programming model that achieved a zero optimality gap in tested demand scenarios.
 - **Workforce Planning & Employee Selection:** designed and analysed a 14-question survey across eight companies covering selection, development, and succession planning.
 
+## Digital Products
+
+**[Cup Margin | هامش الكوب](products/cup-margin/README.md)** — An Arabic offline café recipe-costing tool for contribution margins, target pricing, and single-product break-even scenarios. **Planned price: $39 USD**; checkout activation is in progress. [Product details and purchase inquiries](products/cup-margin/README.md).
+
 ## GitHub Analytics
 
 <div align="center">
