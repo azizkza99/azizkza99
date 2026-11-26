@@ -1,78 +1,112 @@
-<div align="center">
-
-# Abdelaziz Abuthuraya
-
-### Industrial Engineer · Production Planning · Process Improvement · Digital Systems
-
-I connect industrial-engineering methods with practical digital systems—making production, workflows, specifications, and customer journeys clearer and easier to operate.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://cv-ruby-two.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelazizabuthuraya/)
-[![Email](https://img.shields.io/badge/Email-aziz.kza99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz.kza99@gmail.com)
-
-</div>
-
-## About Me
-
-Industrial Engineering graduate based in Jeddah, Saudi Arabia, with practical experience across production planning, manufacturing operations, quality inspection, process improvement, supply-chain analysis, and EPC coordination in Türkiye and Saudi Arabia.
-
-Alongside engineering, I build bilingual Arabic/English web systems using React, TypeScript, Supabase/PostgreSQL, Three.js, and Vercel. My projects translate operational requirements into accessible interfaces, secure workflows, interactive product experiences, and measurable business tools.
-
-- B.Sc. in Industrial Engineering — Üsküdar University
-- Production planning, Lean/5S, quality, supply chain, Excel, and mathematical modelling
-- Graduate coursework in supply chain, marketing management, and mathematical modelling
-- Arabic (native), English (C1), and Turkish (B1)
-- Open to junior industrial engineering, operations, quality, supply-chain, and industrial-digitalization roles in Saudi Arabia
-
-## Engineering & Technology Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:0A66C2,100:14B8A6&text=Abdelaziz%20Abuthuraya&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Industrial%20Engineer%20%C2%B7%20Procurement%20%C2%B7%20AI%20Automation&descAlignY=58&descSize=18&animation=fadeIn" alt="Abdelaziz Abuthuraya" />
 </p>
 
-**Engineering:** production planning · process optimization · Lean manufacturing · quality control · supply-chain analytics
+<p align="center">
+  <a href="https://cv-ruby-two.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=640&lines=Procurement+Specialist+%E2%80%94+Jeddah%2C+Saudi+Arabia;Turning+operations+data+into+smarter+workflows;Arabic-first+web+systems+%C2%B7+RTL+%2F+LTR;React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Three.js" alt="Typing intro" />
+  </a>
+</p>
 
-**Tools:** Microsoft Excel · SolidWorks · AutoCAD · mathematical modelling · data analysis
+<p align="center">
+  <a href="https://cv-ruby-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-cv--ruby--two.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdelazizabuthuraya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aziz.kza99@gmail.com"><img src="https://img.shields.io/badge/Email-aziz.kza99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=azizkza99&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-**Digital systems:** RTL/LTR interfaces · accessibility · server-side validation · Row Level Security · responsive UI · workflow automation
+---
 
-## Selected Engineering Work
+## 👋 About Me
 
-| Project | Engineering Value | Stack |
-| --- | --- | --- |
-| [FORM 3D Viewer](https://github.com/azizkza99/bezi-product-viewer) | Interactive door configuration connecting product specifications to visual decisions | React, JavaScript, Three.js, WebGL |
-| [Kayan](https://github.com/azizkza99/kayan-app) | Arabic-first workflow inquiry system with validated submissions and database access controls | React, TypeScript, Supabase, PostgreSQL |
-| [ECLIPSE](https://eclipse-luxury-experience.vercel.app/) | Bilingual specialty-coffee experience with server validation and email integration | TanStack Start, React, TypeScript, Resend |
-| [Aether OS](https://github.com/azizkza99/aether-os) | Accessible OS simulation with a command parser and in-memory file system | React, JavaScript, Canvas |
-| [AFOQ](https://github.com/azizkza99/afoq-landing-page) | Bilingual studio experience with optimized media and RTL/LTR architecture | React, Tailwind CSS, Vite |
-| [Nexus AI](https://github.com/azizkza99/nexus-ai-template) | Bilingual product-planning workspace and SaaS front-end concept | React, JavaScript, Tailwind CSS, Vite |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Industrial Engineering Case Studies
+**English**
 
-- **Integrated Supply Chain & Revenue Analysis:** evaluated 85% machine utilization and 0.5–1.5% waste to identify cost and process-improvement opportunities.
-- **Virtual Machine Placement under QoS Constraints:** developed a Mixed-Integer Programming model that achieved a zero optimality gap in tested demand scenarios.
-- **Workforce Planning & Employee Selection:** designed and analysed a 14-question survey across eight companies covering selection, development, and succession planning.
+Industrial Engineer working as a **Procurement Specialist** in Jeddah, Saudi Arabia. I bring hands-on experience from production planning, manufacturing operations, quality inspection, and EPC coordination in Türkiye and Saudi Arabia.
 
-## Digital Products
+Alongside engineering, I build **AI-powered automations** and **bilingual Arabic/English web systems** that remove manual reporting and repetitive work.
+
+</td>
+<td width="50%" valign="top" dir="rtl" align="right">
+
+**العربية**
+
+مهندس صناعي أعمل **أخصائي مشتريات** في جدة. عندي خبرة عملية في تخطيط الإنتاج، وعمليات التصنيع، وفحص الجودة، وتنسيق مشاريع EPC في تركيا والسعودية.
+
+إلى جانب الهندسة، أبني **أتمتة بالذكاء الاصطناعي** و**أنظمة ويب عربية/إنجليزية** تختصر التقارير اليدوية والعمل المتكرر.
+
+</td>
+</tr>
+</table>
+
+```yaml
+education:  B.Sc. Industrial Engineering — Üsküdar University
+focus:      [procurement, supply-chain, production-planning, lean-5s, quality, ai-automation]
+languages:  { arabic: native, english: C1, turkish: B1 }
+based_in:   Jeddah, Saudi Arabia
+open_to:    industrial engineering · operations · supply chain · industrial digitalization
+```
+
+## 🧰 Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,tailwind,vite,threejs,supabase,postgres,vercel,git,figma&perline=12" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/SolidWorks-D71920?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/Lean%20%2F%205S-0F172A?style=flat-square" alt="Lean / 5S" />
+  <img src="https://img.shields.io/badge/Mathematical%20Modelling-0F172A?style=flat-square" alt="Mathematical modelling" />
+  <img src="https://img.shields.io/badge/RTL%20%2F%20LTR%20UX-14B8A6?style=flat-square" alt="RTL / LTR UX" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Live |
+| --- | --- | --- | --- |
+| 🧊 **[FORM 3D Viewer](https://github.com/azizkza99/bezi-product-viewer)** | Interactive 3D door configurator linking product specs to visual decisions | React · Three.js · WebGL | [Demo ↗](https://bezi-product-viewer.vercel.app) |
+| 🔁 **[Kayan](https://github.com/azizkza99/kayan-app)** | Arabic-first workflow inquiry system with validated submissions and Row Level Security | React · TypeScript · Supabase | [Demo ↗](https://kayan-app-henna.vercel.app) |
+| ☕ **ECLIPSE** | Bilingual specialty-coffee experience with server validation and email integration | TanStack Start · TypeScript · Resend | [Demo ↗](https://eclipse-luxury-experience.vercel.app/) |
+| 🖥️ **[Aether OS](https://github.com/azizkza99/aether-os)** | Accessible browser OS simulation with a command parser and in-memory file system | React · Canvas · Tailwind | [Demo ↗](https://aether-os-seven-kappa.vercel.app) |
+| 🌅 **[AFOQ](https://github.com/azizkza99/afoq-landing-page)** | Bilingual studio experience with optimized media and RTL/LTR architecture | React · Tailwind · Vite | [Demo ↗](https://afoq-landing-page.vercel.app) |
+| 🤖 **[Nexus AI](https://github.com/azizkza99/nexus-ai-template)** | Bilingual AI-automation SaaS concept with a product-planning workspace | React · Tailwind · Vite | [Demo ↗](https://nexus-ai-rho-two.vercel.app) |
+| 📄 **[CV / Portfolio](https://github.com/azizkza99/CV)** | Bilingual portfolio with case studies and downloadable Arabic/English resumes | React · Vite · Python | [Visit ↗](https://cv-ruby-two.vercel.app) |
+
+## 🏭 Industrial Engineering Case Studies
+
+- **Integrated Supply Chain & Revenue Analysis** — evaluated 85% machine utilization and 0.5–1.5% waste to find cost and process-improvement opportunities.
+- **Virtual Machine Placement under QoS Constraints** — built a Mixed-Integer Programming model that reached a zero optimality gap in tested demand scenarios.
+- **Workforce Planning & Employee Selection** — designed and analysed a 14-question survey across eight companies covering selection, development, and succession planning.
+
+## 🛒 Digital Products
 
 **[Cup Margin | هامش الكوب](products/cup-margin/README.md)** — An Arabic offline café recipe-costing tool for contribution margins, target pricing, and single-product break-even scenarios. **Planned price: $39 USD**; checkout activation is in progress. [Product details and purchase inquiries](products/cup-margin/README.md).
 
-## GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azizkza99&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="Abdelaziz's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizkza99&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used languages" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azizkza99&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent&title_color=14B8A6&icon_color=0A66C2" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizkza99&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=14B8A6" alt="Most used languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=azizkza99&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=azizkza99&hide_border=true&theme=transparent&ring=14B8A6&fire=0A66C2&currStreakLabel=14B8A6" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizkza99/azizkza99/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizkza99/azizkza99/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/azizkza99/azizkza99/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14B8A6,50:0A66C2,100:0F172A" alt="" />
+</p>
